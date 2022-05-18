@@ -12,7 +12,7 @@ Card Reader
 USB
 
 # Not working:
-WIFI ar9565
+WIFI ar9565 (Big Sur should working using `HS80211Family` and `AirPortAtheros40-9565`)
 HDMI
 dGPU
 
